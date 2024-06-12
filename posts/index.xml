@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on The Euro Diaries 2024</title>
-    <link>http://localhost:1313/copa-america-24/posts/</link>
-    <description>Recent content in Posts on The Euro Diaries 2024</description>
+    <title>Posts on Copa America 24</title>
+    <link>https://charlescsr.github.io/copa-america-24/posts/</link>
+    <description>Recent content in Posts on Copa America 24</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 12 Jun 2024 11:07:56 +0530</lastBuildDate><atom:link href="http://localhost:1313/copa-america-24/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Jun 2024 11:07:56 +0530</lastBuildDate><atom:link href="https://charlescsr.github.io/copa-america-24/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Groups</title>
-      <link>http://localhost:1313/copa-america-24/posts/groups/</link>
+      <link>https://charlescsr.github.io/copa-america-24/posts/groups/</link>
       <pubDate>Wed, 12 Jun 2024 11:07:56 +0530</pubDate>
       
-      <guid>http://localhost:1313/copa-america-24/posts/groups/</guid>
+      <guid>https://charlescsr.github.io/copa-america-24/posts/groups/</guid>
       
       <description></description>
       
@@ -20,10 +20,10 @@
     
     <item>
       <title>Duration</title>
-      <link>http://localhost:1313/copa-america-24/posts/duration/</link>
+      <link>https://charlescsr.github.io/copa-america-24/posts/duration/</link>
       <pubDate>Wed, 12 Jun 2024 11:07:50 +0530</pubDate>
       
-      <guid>http://localhost:1313/copa-america-24/posts/duration/</guid>
+      <guid>https://charlescsr.github.io/copa-america-24/posts/duration/</guid>
       
       <description>Duration of Copa America June 21st - July 15th 2024</description>
       

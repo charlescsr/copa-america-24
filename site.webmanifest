@@ -1,7 +1,7 @@
 {
     "name": "Copa America 2024 by CSR",
     "short_name": "Copa America 2024 by CSR",
-    "start_url": "http://localhost:1313/copa-america-24/",
+    "start_url": "https://charlescsr.github.io/copa-america-24/",
     "theme_color": "#434648",
     "background_color": "#131418",
     "display": "standalone",
